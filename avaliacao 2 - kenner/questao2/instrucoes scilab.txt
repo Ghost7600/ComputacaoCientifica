@@ -1,0 +1,5 @@
+após executar o script, execute as seguintes instruções no console
+
+fun = '%e^x/sqrt(x)'
+
+tx=p_medio(0,1,fun,1000)

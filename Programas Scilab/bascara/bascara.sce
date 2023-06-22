@@ -1,0 +1,7 @@
+exec('C:\Users\Aluno\Documents\basca.sce', -1)
+a = input("Entre com o coeficiente de a: ")
+b = input("Entre com o coeficiente de b: ")
+c = input("Entre com o coeficiente de c: ")
+[x1, x2] = bascara(a,b,c)
+disp(x2, "x2 = ", x1, "x1 = ")
+printf("\n")
